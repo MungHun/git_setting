@@ -1,0 +1,4 @@
+웹 상의 깃과 연결될 로컬폴더 생성하기
+폴더 우클릭  git bash here 클릭 git init 입력  git remote add origin 레퍼지터리 주소(repository address) 입력
+push 전엔 pull이 있다. git pull origin master 지정 레퍼지토리 가져오기  git status  git add . 변경된 모든 파일 tracking git commit -m message 구분 할 수 있는 commit 달아주기
+git push origin master 깃에 실제로 넣어주기
